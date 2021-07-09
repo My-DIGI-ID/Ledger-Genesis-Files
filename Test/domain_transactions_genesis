@@ -1,0 +1,10 @@
+{"reqSignature":{},"txn":{"data":{"alias":"Bundesdruckerei","dest":"Rb5zwTfha1UTLe3SQKdvGi","role":"0","verkey":"~AwjSGoRNWMDtSNSQ6XUS7M"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"BWI-Hotel-dev","dest":"HKJZ1VbRMoi8QmFihNMzPZ","role":"0","verkey":"~TqKmUX3sSqABAirCLtM5Wi"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"DeutscheBahn","dest":"NHXL9gHbjKKd71sMJdF7aS","role":"0","verkey":"~8UngtNdrmcJ33arMeEeQsa"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"esatus_AG","dest":"X2yNQGgaTLE3xVHs1tksqE","role":"0","verkey":"~9txHQtjxo2PBt3oPKaJPHc"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"IBM-Node","dest":"QECRt1tsqU3W9NksPCw76b","role":"0","verkey":"~GPehEsXwoqw5cqDdJyMZrq"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"L5m7tA6hhmJfuoHVu1JsR7","role":"2","verkey":"~QjWyw83D96zG1EKj3ksSL6"},"metadata":{"from":"QECRt1tsqU3W9NksPCw76b"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"Vi9hDqQS8KBCEqUFr5QgaM","role":"2","verkey":"~6cr3v8j5umUJYvhnhi2ErP"},"metadata":{"from":"QECRt1tsqU3W9NksPCw76b"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"Xo3tPUpNXYXn1hFmoZMde2","role":"2","verkey":"~TCVzYH7KXPqSCwnnpBrufM"},"metadata":{"from":"QECRt1tsqU3W9NksPCw76b"},"type":"1"},"txnMetadata":{"seqNo":8},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"Y9YfKnZFXXsBqr3CzdNQCv","role":"2","verkey":"~Euj2E2dNofkQ7136rbLoc5"},"metadata":{"from":"QECRt1tsqU3W9NksPCw76b"},"type":"1"},"txnMetadata":{"seqNo":9},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"JeByNgqevTiB787h6H4cgL","role":"2","verkey":"~GMhyfN3itqcBV19JhjBv6Q"},"metadata":{"from":"QECRt1tsqU3W9NksPCw76b"},"type":"1"},"txnMetadata":{"seqNo":10},"ver":"1"}

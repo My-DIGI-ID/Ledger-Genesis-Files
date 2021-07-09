@@ -1,0 +1,10 @@
+{"reqSignature":{},"txn":{"data":{"alias":"Bundesdruckerei","dest":"PuJU8cnSUrsv2D1PVXJZPV","role":"0","verkey":"~9vNmWu7ftS7ANCvRgGUzN2"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"BWI01","dest":"EXbps5u4eRdkjVcBLeHZgJ","role":"0","verkey":"~15iYdG6ooiXaHfMymztUU9"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"DeutscheBahn","dest":"5uW7EoVwg5PFYL3gbJJbMp","role":"0","verkey":"~BrmD27D8fsjSrJbYSG9b7n"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"esatus_AG","dest":"PRTiNcvTB2wUP2cdtByE2K","role":"0","verkey":"~PrJG1rspfax58T3Fp2A7HM"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"IBM","dest":"QutDhvFxx3DeoZyFzLbEiY","role":"0","verkey":"~JF9J9QyrajooTAaGoJEiLX"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"KYMfYbRgG7Agc8upYvngu9","role":"2","verkey":"~45MfzQeDjRssg6x5LsCJFv"},"metadata":{"from":"QutDhvFxx3DeoZyFzLbEiY"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"7vyyugPwC3ArWtRWbz6LCm","role":"2","verkey":"~7bquxp98wiioicxCUiaC5z"},"metadata":{"from":"QutDhvFxx3DeoZyFzLbEiY"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"VkVqDPzeDCQe31H3RsMzbf","role":"2","verkey":"~7YpG5tgnCVkBGByQPcj4Gg"},"metadata":{"from":"QutDhvFxx3DeoZyFzLbEiY"},"type":"1"},"txnMetadata":{"seqNo":8},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"75aDKXUfnvr4x1FdLrnxCX","role":"2","verkey":"~QxvtqDLEaNkNNvk5X4pXgj"},"metadata":{"from":"QutDhvFxx3DeoZyFzLbEiY"},"type":"1"},"txnMetadata":{"seqNo":9},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"MqD7S5sDAiVnwycP4tdr7","role":"2","verkey":"~Aa9EGid3KQT94N1i1Fe4JL"},"metadata":{"from":"QutDhvFxx3DeoZyFzLbEiY"},"type":"1"},"txnMetadata":{"seqNo":10},"ver":"1"}
